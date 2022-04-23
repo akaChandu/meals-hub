@@ -10,7 +10,7 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
 A new Flutter project.
 
 ## Skills and Experience
-[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
 
 ## Design and Development
 An Meals App UI which shows us how to prepare different types of meals and as well as tells the steps to make recipe of the meals and the information about the nutritional elements in that food.
