@@ -9,7 +9,7 @@ I am Chandra Prakash Mishra from Bhopal, I do the Designing and Development with
 
 A new Flutter project.
 
-## Skills and Experience
+## Tools and technologies used
 [![My Skills](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
 
 ## Design and Development
